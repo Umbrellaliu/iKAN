@@ -1,4 +1,6 @@
-# iKAN: Interactive KAN Medical Segmentation Framework
+# IKAN: Interactive KAN Medical Segmentation Framework
 
-- Full code release: Expected Q2 2025 after journal decision  
-
+```diff
++ We're in the final stages of code cleanup and documentation
+! Full open-source release coming soon
+- Temporarily restricted for dual submission compliance
